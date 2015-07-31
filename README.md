@@ -1,4 +1,4 @@
-**User Experience of On-Screen Interactions Techniques**
+**User Experience of On-Screen Interactions Techniques and Annotated Entities**
 ====================================================
 
 This is a thesis project for a starter application for measuring User Experience using six (6) different Interactions Tecniques : Clicking, Hovering, Sliding, Zooming, Dragging and Flipping and Annotated Entities. 
